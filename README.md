@@ -15,6 +15,6 @@ Search Details of GSTIN
 
 -> Download all the files and Sources(Optional)
 -> Requires .Net Framework 4.5 or higher in order to run this application
--> Run GST Finder.exe and start seraching GSTIN's
+-> Run GSTIN Finder.exe and start seraching GSTIN's
 -> Click Use tally DataBase if you want to serach Parties GSTIN
 -> Hot Reload Option Provided if you to switch companies instantly while using tally data base

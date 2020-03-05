@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GST_Finder"
         mc:Ignorable="d"
-        Title="GST Finder" Height="600" Width="1000" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" FontFamily="Verdana">
+        Title="GSTIN Finder" Height="600" Width="1000" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" FontFamily="Verdana">
     <Window.Resources>
         <Color x:Key="FilledColor" A="255" B="155" R="155" G="155"/>
         <Color x:Key="UnfilledColor" A="0" B="155" R="155" G="155"/>

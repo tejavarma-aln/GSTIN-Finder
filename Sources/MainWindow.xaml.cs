@@ -118,8 +118,8 @@ namespace GST_Finder
                 LegalName.Text = GST_INFO[2];
                 Entity.Text = GST_INFO[3];
                 RegType.Text = GST_INFO[4];
-                RegDate.Text = GST_INFO[5];
-                DepCode.Text = GST_INFO[6];
+                RegDate.Text = GST_INFO[6];
+                DepCode.Text = GST_INFO[5];
             }
             else
             {

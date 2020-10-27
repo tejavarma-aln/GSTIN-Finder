@@ -22,7 +22,7 @@ Search Details of GSTIN
 
 # Get Started
 
--> Download all the files except Sources(Optional)
+-> Download all the files except Sources
 
 -> Run GSTIN Finder.exe and start seraching GSTIN's
 

@@ -24,6 +24,8 @@ Search Details of GSTIN
 
 -> Download all the files except Sources
 
+-> Download files from source folder only if you want modify or build on your own.
+
 -> Run GSTIN Finder.exe and start seraching GSTIN's
 
 -> Click Use tally DataBase if you want to serach Parties GSTIN
